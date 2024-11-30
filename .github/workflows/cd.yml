@@ -11,12 +11,12 @@ permissions:
   contents: write
 
 jobs:
-  deploay:
+  deploy:
     name: Deploy prayer times
     runs-on: ubuntu-latest
     steps:
       - name: Checkout sources
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
 
       - name: Install stable toolchain
         uses: dtolnay/rust-toolchain@stable
