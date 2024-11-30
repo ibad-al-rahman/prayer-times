@@ -24,7 +24,6 @@ done
 
 # Deployment step
 rm -rf temp
-ls -lart
 
 git config --global user.name "Ghamza-Jd"
 git config --global user.email "hamzah.jadeed@gmail.com"
