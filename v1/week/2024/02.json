@@ -1,0 +1,86 @@
+[
+  {
+    "dayIndex": 8,
+    "hijri": "26/6/1445",
+    "prayerTimes": {
+      "fajer": "5:07 am",
+      "sunrise": "6:44 am",
+      "dhuhr": "11:44 am",
+      "asr": "2:26 pm",
+      "maghrib": "4:49 pm",
+      "ishaa": "6:11 pm"
+    }
+  },
+  {
+    "dayIndex": 9,
+    "hijri": "27/6/1445",
+    "prayerTimes": {
+      "fajer": "5:07 am",
+      "sunrise": "6:44 am",
+      "dhuhr": "11:44 am",
+      "asr": "2:27 pm",
+      "maghrib": "4:49 pm",
+      "ishaa": "6:12 pm"
+    }
+  },
+  {
+    "dayIndex": 10,
+    "hijri": "28/6/1445",
+    "prayerTimes": {
+      "fajer": "5:07 am",
+      "sunrise": "6:44 am",
+      "dhuhr": "11:45 am",
+      "asr": "2:28 pm",
+      "maghrib": "4:51 pm",
+      "ishaa": "6:13 pm"
+    }
+  },
+  {
+    "dayIndex": 11,
+    "hijri": "29/6/1445",
+    "prayerTimes": {
+      "fajer": "5:07 am",
+      "sunrise": "6:45 am",
+      "dhuhr": "11:45 am",
+      "asr": "2:28 pm",
+      "maghrib": "4:52 pm",
+      "ishaa": "6:13 pm"
+    }
+  },
+  {
+    "dayIndex": 12,
+    "hijri": "30/6/1445",
+    "prayerTimes": {
+      "fajer": "5:08 am",
+      "sunrise": "6:44 am",
+      "dhuhr": "11:46 am",
+      "asr": "2:29 pm",
+      "maghrib": "4:53 pm",
+      "ishaa": "6:14 pm"
+    }
+  },
+  {
+    "dayIndex": 13,
+    "hijri": "1/7/1445",
+    "prayerTimes": {
+      "fajer": "5:08 am",
+      "sunrise": "6:43 am",
+      "dhuhr": "11:46 am",
+      "asr": "2:30 pm",
+      "maghrib": "4:54 pm",
+      "ishaa": "6:15 pm"
+    }
+  },
+  {
+    "dayIndex": 14,
+    "hijri": "2/7/1445",
+    "prayerTimes": {
+      "fajer": "5:07 am",
+      "sunrise": "6:43 am",
+      "dhuhr": "11:46 am",
+      "asr": "2:31 pm",
+      "maghrib": "4:55 pm",
+      "ishaa": "6:16 pm"
+    }
+  }
+]

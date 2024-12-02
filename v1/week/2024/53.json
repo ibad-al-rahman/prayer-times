@@ -1,0 +1,26 @@
+[
+  {
+    "dayIndex": 30,
+    "hijri": "28/6/1446",
+    "prayerTimes": {
+      "fajer": "5:05 am",
+      "sunrise": "6:43 am",
+      "dhuhr": "11:40 am",
+      "asr": "2:19 pm",
+      "maghrib": "4:42 pm",
+      "ishaa": "6:05 pm"
+    }
+  },
+  {
+    "dayIndex": 31,
+    "hijri": "29/6/1446",
+    "prayerTimes": {
+      "fajer": "5:05 am",
+      "sunrise": "6:43 am",
+      "dhuhr": "11:40 am",
+      "asr": "2:20 pm",
+      "maghrib": "4:43 pm",
+      "ishaa": "6:05 pm"
+    }
+  }
+]
