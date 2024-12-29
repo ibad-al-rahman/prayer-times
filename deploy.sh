@@ -2,7 +2,7 @@
 
 # Setup
 git switch -c deployment
-years=(2024)
+years=(2024 2025)
 echo "Years: ${years[@]}"
 
 # Build step
