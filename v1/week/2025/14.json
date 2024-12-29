@@ -1,0 +1,101 @@
+[
+  {
+    "id": 20250402,
+    "gregorian": "02/04/2025",
+    "hijri": "04/10/1446",
+    "prayerTimes": {
+      "fajer": "4:53 am",
+      "sunrise": "6:25 am",
+      "dhuhr": "12:42 pm",
+      "asr": "4:15 pm",
+      "maghrib": "7:03 pm",
+      "ishaa": "8:21 pm"
+    },
+    "event": {
+      "ar": "ذكرى غزوة أُحُد (٣ هـ)",
+      "en": "The anniversary of the Battle of Uhud (3 AH)"
+    }
+  },
+  {
+    "id": 20250403,
+    "gregorian": "03/04/2025",
+    "hijri": "05/10/1446",
+    "prayerTimes": {
+      "fajer": "4:51 am",
+      "sunrise": "6:24 am",
+      "dhuhr": "12:41 pm",
+      "asr": "4:15 pm",
+      "maghrib": "7:04 pm",
+      "ishaa": "8:22 pm"
+    }
+  },
+  {
+    "id": 20250404,
+    "gregorian": "04/04/2025",
+    "hijri": "06/10/1446",
+    "prayerTimes": {
+      "fajer": "4:50 am",
+      "sunrise": "6:22 am",
+      "dhuhr": "12:41 pm",
+      "asr": "4:15 pm",
+      "maghrib": "7:05 pm",
+      "ishaa": "8:23 pm"
+    }
+  },
+  {
+    "id": 20250405,
+    "gregorian": "05/04/2025",
+    "hijri": "07/10/1446",
+    "prayerTimes": {
+      "fajer": "4:48 am",
+      "sunrise": "6:21 am",
+      "dhuhr": "12:41 pm",
+      "asr": "4:15 pm",
+      "maghrib": "7:05 pm",
+      "ishaa": "8:24 pm"
+    }
+  },
+  {
+    "id": 20250406,
+    "gregorian": "06/04/2025",
+    "hijri": "08/10/1446",
+    "prayerTimes": {
+      "fajer": "4:47 am",
+      "sunrise": "6:20 am",
+      "dhuhr": "12:40 pm",
+      "asr": "4:15 pm",
+      "maghrib": "7:06 pm",
+      "ishaa": "8:25 pm"
+    }
+  },
+  {
+    "id": 20250407,
+    "gregorian": "07/04/2025",
+    "hijri": "09/10/1446",
+    "prayerTimes": {
+      "fajer": "4:45 am",
+      "sunrise": "6:18 am",
+      "dhuhr": "12:40 pm",
+      "asr": "4:15 pm",
+      "maghrib": "7:07 pm",
+      "ishaa": "8:26 pm"
+    },
+    "event": {
+      "ar": "يوم الصحة العالمي",
+      "en": " World Health Day"
+    }
+  },
+  {
+    "id": 20250408,
+    "gregorian": "08/04/2025",
+    "hijri": "10/10/1446",
+    "prayerTimes": {
+      "fajer": "4:44 am",
+      "sunrise": "6:17 am",
+      "dhuhr": "12:40 pm",
+      "asr": "4:16 pm",
+      "maghrib": "7:08 pm",
+      "ishaa": "8:26 pm"
+    }
+  }
+]

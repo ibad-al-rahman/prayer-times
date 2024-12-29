@@ -1,0 +1,97 @@
+[
+  {
+    "id": 20250312,
+    "gregorian": "12/03/2025",
+    "hijri": "12/09/1446",
+    "prayerTimes": {
+      "fajer": "4:22 am",
+      "sunrise": "5:52 am",
+      "dhuhr": "11:48 am",
+      "asr": "3:10 pm",
+      "maghrib": "5:48 pm",
+      "ishaa": "7:04 pm"
+    }
+  },
+  {
+    "id": 20250313,
+    "gregorian": "13/03/2025",
+    "hijri": "13/09/1446",
+    "prayerTimes": {
+      "fajer": "4:22 am",
+      "sunrise": "5:51 am",
+      "dhuhr": "11:47 am",
+      "asr": "3:10 pm",
+      "maghrib": "5:49 pm",
+      "ishaa": "7:05 pm"
+    }
+  },
+  {
+    "id": 20250314,
+    "gregorian": "14/03/2025",
+    "hijri": "14/09/1446",
+    "prayerTimes": {
+      "fajer": "4:21 am",
+      "sunrise": "5:51 am",
+      "dhuhr": "11:47 am",
+      "asr": "3:10 pm",
+      "maghrib": "5:49 pm",
+      "ishaa": "7:05 pm"
+    }
+  },
+  {
+    "id": 20250315,
+    "gregorian": "15/03/2025",
+    "hijri": "15/09/1446",
+    "prayerTimes": {
+      "fajer": "4:19 am",
+      "sunrise": "5:49 am",
+      "dhuhr": "11:47 am",
+      "asr": "3:11 pm",
+      "maghrib": "5:49 pm",
+      "ishaa": "7:06 pm"
+    }
+  },
+  {
+    "id": 20250316,
+    "gregorian": "16/03/2025",
+    "hijri": "16/09/1446",
+    "prayerTimes": {
+      "fajer": "4:18 am",
+      "sunrise": "5:48 am",
+      "dhuhr": "11:47 am",
+      "asr": "3:11 pm",
+      "maghrib": "5:50 pm",
+      "ishaa": "7:06 pm"
+    }
+  },
+  {
+    "id": 20250317,
+    "gregorian": "17/03/2025",
+    "hijri": "17/09/1446",
+    "prayerTimes": {
+      "fajer": "4:16 am",
+      "sunrise": "5:47 am",
+      "dhuhr": "11:46 am",
+      "asr": "3:11 pm",
+      "maghrib": "5:51 pm",
+      "ishaa": "7:07 pm"
+    },
+    "event": {
+      "ar": " ذكرى غزوة بدر الكبرى وقعت (٢ هـ)",
+      "en": "The anniversary of the Battle of Badr took place (2 AH)"
+    }
+  },
+  {
+    "id": 20250318,
+    "gregorian": "18/03/2025",
+    "hijri": "18/09/1446",
+    "prayerTimes": {
+      "fajer": "4:15 am",
+      "sunrise": "5:45 am",
+      "dhuhr": "11:46 am",
+      "asr": "3:11 pm",
+      "maghrib": "5:52 pm",
+      "ishaa": "7:08 pm"
+    }
+  }
+]

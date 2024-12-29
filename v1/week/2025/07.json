@@ -1,0 +1,97 @@
+[
+  {
+    "id": 20250212,
+    "gregorian": "12/02/2025",
+    "hijri": "13/08/1446",
+    "prayerTimes": {
+      "fajer": "4:55 am",
+      "sunrise": "6:26 am",
+      "dhuhr": "11:52 am",
+      "asr": "2:54 pm",
+      "maghrib": "5:23 pm",
+      "ishaa": "6:40 pm"
+    }
+  },
+  {
+    "id": 20250213,
+    "gregorian": "13/02/2025",
+    "hijri": "14/08/1446",
+    "prayerTimes": {
+      "fajer": "4:54 am",
+      "sunrise": "6:25 am",
+      "dhuhr": "11:52 am",
+      "asr": "2:55 pm",
+      "maghrib": "5:24 pm",
+      "ishaa": "6:41 pm"
+    },
+    "event": {
+      "ar": "ليلة النّصف من شعبان",
+      "en": "The night of the middle of Sha'ban"
+    }
+  },
+  {
+    "id": 20250214,
+    "gregorian": "14/02/2025",
+    "hijri": "15/08/1446",
+    "prayerTimes": {
+      "fajer": "4:53 am",
+      "sunrise": "6:24 am",
+      "dhuhr": "11:52 am",
+      "asr": "2:56 pm",
+      "maghrib": "5:25 pm",
+      "ishaa": "6:42 pm"
+    }
+  },
+  {
+    "id": 20250215,
+    "gregorian": "15/02/2025",
+    "hijri": "16/08/1446",
+    "prayerTimes": {
+      "fajer": "4:52 am",
+      "sunrise": "6:23 am",
+      "dhuhr": "11:52 am",
+      "asr": "2:56 pm",
+      "maghrib": "5:26 pm",
+      "ishaa": "6:43 pm"
+    }
+  },
+  {
+    "id": 20250216,
+    "gregorian": "16/02/2025",
+    "hijri": "17/08/1446",
+    "prayerTimes": {
+      "fajer": "4:51 am",
+      "sunrise": "6:22 am",
+      "dhuhr": "11:52 am",
+      "asr": "2:57 pm",
+      "maghrib": "5:27 pm",
+      "ishaa": "6:44 pm"
+    }
+  },
+  {
+    "id": 20250217,
+    "gregorian": "17/02/2025",
+    "hijri": "18/08/1446",
+    "prayerTimes": {
+      "fajer": "4:50 am",
+      "sunrise": "6:21 am",
+      "dhuhr": "11:52 am",
+      "asr": "2:58 pm",
+      "maghrib": "5:27 pm",
+      "ishaa": "6:45 pm"
+    }
+  },
+  {
+    "id": 20250218,
+    "gregorian": "18/02/2025",
+    "hijri": "19/08/1446",
+    "prayerTimes": {
+      "fajer": "4:49 am",
+      "sunrise": "6:20 am",
+      "dhuhr": "11:52 am",
+      "asr": "2:58 pm",
+      "maghrib": "5:28 pm",
+      "ishaa": "6:45 pm"
+    }
+  }
+]

@@ -1,0 +1,101 @@
+[
+  {
+    "id": 20251119,
+    "gregorian": "19/11/2025",
+    "hijri": "28/05/1447",
+    "prayerTimes": {
+      "fajer": "4:38 am",
+      "sunrise": "6:13 am",
+      "dhuhr": "11:23 am",
+      "asr": "2:13 pm",
+      "maghrib": "4:38 pm",
+      "ishaa": "5:58 pm"
+    }
+  },
+  {
+    "id": 20251120,
+    "gregorian": "20/11/2025",
+    "hijri": "29/05/1447",
+    "prayerTimes": {
+      "fajer": "4:39 am",
+      "sunrise": "6:14 am",
+      "dhuhr": "11:23 am",
+      "asr": "2:13 pm",
+      "maghrib": "4:37 pm",
+      "ishaa": "5:57 pm"
+    },
+    "event": {
+      "ar": "ولادة القمر ٨:٤٨ صباحاً",
+      "en": " Moon Birth 8:48 AM"
+    }
+  },
+  {
+    "id": 20251121,
+    "gregorian": "21/11/2025",
+    "hijri": "30/05/1447",
+    "prayerTimes": {
+      "fajer": "4:40 am",
+      "sunrise": "6:15 am",
+      "dhuhr": "11:23 am",
+      "asr": "2:12 pm",
+      "maghrib": "4:37 pm",
+      "ishaa": "5:57 pm"
+    }
+  },
+  {
+    "id": 20251122,
+    "gregorian": "22/11/2025",
+    "hijri": "01/06/1447",
+    "prayerTimes": {
+      "fajer": "4:40 am",
+      "sunrise": "6:16 am",
+      "dhuhr": "11:24 am",
+      "asr": "2:12 pm",
+      "maghrib": "4:36 pm",
+      "ishaa": "5:57 pm"
+    },
+    "event": {
+      "ar": "ذكرى الاستقلال",
+      "en": " Independence Day"
+    }
+  },
+  {
+    "id": 20251123,
+    "gregorian": "23/11/2025",
+    "hijri": "02/06/1447",
+    "prayerTimes": {
+      "fajer": "4:41 am",
+      "sunrise": "6:17 am",
+      "dhuhr": "11:24 am",
+      "asr": "2:12 pm",
+      "maghrib": "4:36 pm",
+      "ishaa": "5:56 pm"
+    }
+  },
+  {
+    "id": 20251124,
+    "gregorian": "24/11/2025",
+    "hijri": "03/06/1447",
+    "prayerTimes": {
+      "fajer": "4:42 am",
+      "sunrise": "6:18 am",
+      "dhuhr": "11:24 am",
+      "asr": "2:11 pm",
+      "maghrib": "4:36 pm",
+      "ishaa": "5:56 pm"
+    }
+  },
+  {
+    "id": 20251125,
+    "gregorian": "25/11/2025",
+    "hijri": "04/06/1447",
+    "prayerTimes": {
+      "fajer": "4:43 am",
+      "sunrise": "6:19 am",
+      "dhuhr": "11:24 am",
+      "asr": "2:11 pm",
+      "maghrib": "4:35 pm",
+      "ishaa": "5:56 pm"
+    }
+  }
+]

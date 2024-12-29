@@ -1,0 +1,101 @@
+[
+  {
+    "id": 20250319,
+    "gregorian": "19/03/2025",
+    "hijri": "19/09/1446",
+    "prayerTimes": {
+      "fajer": "4:14 am",
+      "sunrise": "5:44 am",
+      "dhuhr": "11:46 am",
+      "asr": "3:12 pm",
+      "maghrib": "5:52 pm",
+      "ishaa": "7:09 pm"
+    }
+  },
+  {
+    "id": 20250320,
+    "gregorian": "20/03/2025",
+    "hijri": "20/09/1446",
+    "prayerTimes": {
+      "fajer": "4:12 am",
+      "sunrise": "5:43 am",
+      "dhuhr": "11:46 am",
+      "asr": "3:12 pm",
+      "maghrib": "5:53 pm",
+      "ishaa": "7:10 pm"
+    },
+    "event": {
+      "ar": "ذكرى فتح مكة (٨ هـ)",
+      "en": " Anniversary of the Conquest of Mecca (8 AH)"
+    }
+  },
+  {
+    "id": 20250321,
+    "gregorian": "21/03/2025",
+    "hijri": "21/09/1446",
+    "prayerTimes": {
+      "fajer": "4:11 am",
+      "sunrise": "5:41 am",
+      "dhuhr": "11:45 am",
+      "asr": "3:12 pm",
+      "maghrib": "5:54 pm",
+      "ishaa": "7:11 pm"
+    }
+  },
+  {
+    "id": 20250322,
+    "gregorian": "22/03/2025",
+    "hijri": "22/09/1446",
+    "prayerTimes": {
+      "fajer": "4:09 am",
+      "sunrise": "5:40 am",
+      "dhuhr": "11:45 am",
+      "asr": "3:13 pm",
+      "maghrib": "5:55 pm",
+      "ishaa": "7:12 pm"
+    },
+    "event": {
+      "ar": "بدء فصل الرّبيع",
+      "en": "The beginning of the spring season"
+    }
+  },
+  {
+    "id": 20250323,
+    "gregorian": "23/03/2025",
+    "hijri": "23/09/1446",
+    "prayerTimes": {
+      "fajer": "4:08 am",
+      "sunrise": "5:39 am",
+      "dhuhr": "11:45 am",
+      "asr": "3:13 pm",
+      "maghrib": "5:56 pm",
+      "ishaa": "7:12 pm"
+    }
+  },
+  {
+    "id": 20250324,
+    "gregorian": "24/03/2025",
+    "hijri": "24/09/1446",
+    "prayerTimes": {
+      "fajer": "4:06 am",
+      "sunrise": "5:37 am",
+      "dhuhr": "11:44 am",
+      "asr": "3:13 pm",
+      "maghrib": "5:56 pm",
+      "ishaa": "7:13 pm"
+    }
+  },
+  {
+    "id": 20250325,
+    "gregorian": "25/03/2025",
+    "hijri": "25/09/1446",
+    "prayerTimes": {
+      "fajer": "4:05 am",
+      "sunrise": "5:36 am",
+      "dhuhr": "11:44 am",
+      "asr": "3:13 pm",
+      "maghrib": "5:57 pm",
+      "ishaa": "7:14 pm"
+    }
+  }
+]

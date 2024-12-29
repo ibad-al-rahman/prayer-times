@@ -1,0 +1,97 @@
+[
+  {
+    "id": 20240108,
+    "gregorian": "08/01/2024",
+    "hijri": "26/06/1445",
+    "prayerTimes": {
+      "fajer": "5:07 am",
+      "sunrise": "6:44 am",
+      "dhuhr": "11:44 am",
+      "asr": "2:26 pm",
+      "maghrib": "4:49 pm",
+      "ishaa": "6:11 pm"
+    }
+  },
+  {
+    "id": 20240109,
+    "gregorian": "09/01/2024",
+    "hijri": "27/06/1445",
+    "prayerTimes": {
+      "fajer": "5:07 am",
+      "sunrise": "6:44 am",
+      "dhuhr": "11:44 am",
+      "asr": "2:27 pm",
+      "maghrib": "4:49 pm",
+      "ishaa": "6:12 pm"
+    }
+  },
+  {
+    "id": 20240110,
+    "gregorian": "10/01/2024",
+    "hijri": "28/06/1445",
+    "prayerTimes": {
+      "fajer": "5:07 am",
+      "sunrise": "6:44 am",
+      "dhuhr": "11:45 am",
+      "asr": "2:28 pm",
+      "maghrib": "4:51 pm",
+      "ishaa": "6:13 pm"
+    }
+  },
+  {
+    "id": 20240111,
+    "gregorian": "11/01/2024",
+    "hijri": "29/06/1445",
+    "prayerTimes": {
+      "fajer": "5:07 am",
+      "sunrise": "6:45 am",
+      "dhuhr": "11:45 am",
+      "asr": "2:28 pm",
+      "maghrib": "4:52 pm",
+      "ishaa": "6:13 pm"
+    },
+    "event": {
+      "ar": "ولادة القمر 1:59 بعد الظهر",
+      "en": "Moon Birth 1:59 PM"
+    }
+  },
+  {
+    "id": 20240112,
+    "gregorian": "12/01/2024",
+    "hijri": "30/06/1445",
+    "prayerTimes": {
+      "fajer": "5:08 am",
+      "sunrise": "6:44 am",
+      "dhuhr": "11:46 am",
+      "asr": "2:29 pm",
+      "maghrib": "4:53 pm",
+      "ishaa": "6:14 pm"
+    }
+  },
+  {
+    "id": 20240113,
+    "gregorian": "13/01/2024",
+    "hijri": "01/07/1445",
+    "prayerTimes": {
+      "fajer": "5:08 am",
+      "sunrise": "6:43 am",
+      "dhuhr": "11:46 am",
+      "asr": "2:30 pm",
+      "maghrib": "4:54 pm",
+      "ishaa": "6:15 pm"
+    }
+  },
+  {
+    "id": 20240114,
+    "gregorian": "14/01/2024",
+    "hijri": "02/07/1445",
+    "prayerTimes": {
+      "fajer": "5:07 am",
+      "sunrise": "6:43 am",
+      "dhuhr": "11:46 am",
+      "asr": "2:31 pm",
+      "maghrib": "4:55 pm",
+      "ishaa": "6:16 pm"
+    }
+  }
+]

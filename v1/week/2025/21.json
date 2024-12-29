@@ -1,0 +1,97 @@
+[
+  {
+    "id": 20250521,
+    "gregorian": "21/05/2025",
+    "hijri": "23/11/1446",
+    "prayerTimes": {
+      "fajer": "3:45 am",
+      "sunrise": "5:33 am",
+      "dhuhr": "12:34 pm",
+      "asr": "4:19 pm",
+      "maghrib": "7:40 pm",
+      "ishaa": "9:11 pm"
+    }
+  },
+  {
+    "id": 20250522,
+    "gregorian": "22/05/2025",
+    "hijri": "24/11/1446",
+    "prayerTimes": {
+      "fajer": "3:44 am",
+      "sunrise": "5:32 am",
+      "dhuhr": "12:34 pm",
+      "asr": "4:19 pm",
+      "maghrib": "7:41 pm",
+      "ishaa": "9:12 pm"
+    }
+  },
+  {
+    "id": 20250523,
+    "gregorian": "23/05/2025",
+    "hijri": "25/11/1446",
+    "prayerTimes": {
+      "fajer": "3:43 am",
+      "sunrise": "5:32 am",
+      "dhuhr": "12:34 pm",
+      "asr": "4:19 pm",
+      "maghrib": "7:42 pm",
+      "ishaa": "9:12 pm"
+    }
+  },
+  {
+    "id": 20250524,
+    "gregorian": "24/05/2025",
+    "hijri": "26/11/1446",
+    "prayerTimes": {
+      "fajer": "3:42 am",
+      "sunrise": "5:31 am",
+      "dhuhr": "12:34 pm",
+      "asr": "4:19 pm",
+      "maghrib": "7:42 pm",
+      "ishaa": "9:14 pm"
+    }
+  },
+  {
+    "id": 20250525,
+    "gregorian": "25/05/2025",
+    "hijri": "27/11/1446",
+    "prayerTimes": {
+      "fajer": "3:41 am",
+      "sunrise": "5:31 am",
+      "dhuhr": "12:34 pm",
+      "asr": "4:19 pm",
+      "maghrib": "7:43 pm",
+      "ishaa": "9:15 pm"
+    }
+  },
+  {
+    "id": 20250526,
+    "gregorian": "26/05/2025",
+    "hijri": "28/11/1446",
+    "prayerTimes": {
+      "fajer": "3:40 am",
+      "sunrise": "5:30 am",
+      "dhuhr": "12:34 pm",
+      "asr": "4:19 pm",
+      "maghrib": "7:44 pm",
+      "ishaa": "9:16 pm"
+    }
+  },
+  {
+    "id": 20250527,
+    "gregorian": "27/05/2025",
+    "hijri": "29/11/1446",
+    "prayerTimes": {
+      "fajer": "3:39 am",
+      "sunrise": "5:30 am",
+      "dhuhr": "12:35 pm",
+      "asr": "4:19 pm",
+      "maghrib": "7:44 pm",
+      "ishaa": "9:17 pm"
+    },
+    "event": {
+      "ar": "ولادة القمر ٦:٠٣ صباحاً",
+      "en": " Moon Birth 6:03 AM"
+    }
+  }
+]

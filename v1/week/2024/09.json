@@ -1,0 +1,93 @@
+[
+  {
+    "id": 20240226,
+    "gregorian": "26/02/2024",
+    "hijri": "16/08/1445",
+    "prayerTimes": {
+      "fajer": "4:41 am",
+      "sunrise": "6:11 am",
+      "dhuhr": "11:51 am",
+      "asr": "3:03 pm",
+      "maghrib": "5:36 pm",
+      "ishaa": "6:52 pm"
+    }
+  },
+  {
+    "id": 20240227,
+    "gregorian": "27/02/2024",
+    "hijri": "17/08/1445",
+    "prayerTimes": {
+      "fajer": "4:40 am",
+      "sunrise": "6:10 am",
+      "dhuhr": "11:51 am",
+      "asr": "3:04 pm",
+      "maghrib": "5:37 pm",
+      "ishaa": "6:53 pm"
+    }
+  },
+  {
+    "id": 20240228,
+    "gregorian": "28/02/2024",
+    "hijri": "18/08/1445",
+    "prayerTimes": {
+      "fajer": "4:39 am",
+      "sunrise": "6:09 am",
+      "dhuhr": "11:51 am",
+      "asr": "3:04 pm",
+      "maghrib": "5:37 pm",
+      "ishaa": "6:53 pm"
+    }
+  },
+  {
+    "id": 20240229,
+    "gregorian": "29/02/2024",
+    "hijri": "19/08/1445",
+    "prayerTimes": {
+      "fajer": "4:38 am",
+      "sunrise": "6:08 am",
+      "dhuhr": "11:51 am",
+      "asr": "3:04 pm",
+      "maghrib": "5:38 pm",
+      "ishaa": "6:54 pm"
+    }
+  },
+  {
+    "id": 20240301,
+    "gregorian": "01/03/2024",
+    "hijri": "20/08/1445",
+    "prayerTimes": {
+      "fajer": "4:36 am",
+      "sunrise": "6:06 am",
+      "dhuhr": "11:50 am",
+      "asr": "3:05 pm",
+      "maghrib": "5:39 pm",
+      "ishaa": "6:55 pm"
+    }
+  },
+  {
+    "id": 20240302,
+    "gregorian": "02/03/2024",
+    "hijri": "21/08/1445",
+    "prayerTimes": {
+      "fajer": "4:35 am",
+      "sunrise": "6:05 am",
+      "dhuhr": "11:50 am",
+      "asr": "3:06 pm",
+      "maghrib": "5:40 pm",
+      "ishaa": "6:56 pm"
+    }
+  },
+  {
+    "id": 20240303,
+    "gregorian": "03/03/2024",
+    "hijri": "22/08/1445",
+    "prayerTimes": {
+      "fajer": "4:34 am",
+      "sunrise": "6:04 am",
+      "dhuhr": "11:50 am",
+      "asr": "3:06 pm",
+      "maghrib": "5:41 pm",
+      "ishaa": "6:57 pm"
+    }
+  }
+]
