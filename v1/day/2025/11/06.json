@@ -1,0 +1,17 @@
+{
+  "id": 20251106,
+  "gregorian": "06/11/2025",
+  "hijri": "15/05/1447",
+  "prayerTimes": {
+    "fajr": "4:28 am",
+    "sunrise": "6:01 am",
+    "dhuhr": "11:21 am",
+    "asr": "2:20 pm",
+    "maghrib": "4:47 pm",
+    "ishaa": "6:05 pm"
+  },
+  "event": {
+    "ar": "ذكرى غزوة مؤتة (٨ هـ) وقعت في حدود بلاد الشام",
+    "en": "The anniversary of the Battle of Mu'tah (8 AH) took place on the borders of the Levant"
+  }
+}

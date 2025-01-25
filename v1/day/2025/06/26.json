@@ -1,0 +1,17 @@
+{
+  "id": 20250626,
+  "gregorian": "26/06/2025",
+  "hijri": "01/01/1447",
+  "prayerTimes": {
+    "fajr": "3:32 am",
+    "sunrise": "5:28 am",
+    "dhuhr": "12:40 pm",
+    "asr": "4:25 pm",
+    "maghrib": "7:57 pm",
+    "ishaa": "9:34 pm"
+  },
+  "event": {
+    "ar": "بداية العام الهجري ١٤٤٧",
+    "en": " The beginning of the Hijri year 1447"
+  }
+}
