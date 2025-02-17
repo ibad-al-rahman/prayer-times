@@ -1,0 +1,17 @@
+{
+  "id": 20250625,
+  "gregorian": "25/06/2025",
+  "hijri": "29/12/1446",
+  "prayerTimes": {
+    "fajr": "3:32 am",
+    "sunrise": "5:28 am",
+    "dhuhr": "12:40 pm",
+    "asr": "4:25 pm",
+    "maghrib": "7:57 pm",
+    "ishaa": "9:34 pm"
+  },
+  "event": {
+    "ar": "ولادة القمر ١:٣٣ ظهراً",
+    "en": " Moon Birth 1:33 PM"
+  }
+}

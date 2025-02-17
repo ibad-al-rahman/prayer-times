@@ -1,0 +1,17 @@
+{
+  "id": 20250407,
+  "gregorian": "07/04/2025",
+  "hijri": "09/10/1446",
+  "prayerTimes": {
+    "fajr": "4:45 am",
+    "sunrise": "6:18 am",
+    "dhuhr": "12:40 pm",
+    "asr": "4:15 pm",
+    "maghrib": "7:07 pm",
+    "ishaa": "8:26 pm"
+  },
+  "event": {
+    "ar": "يوم الصحة العالمي",
+    "en": " World Health Day"
+  }
+}
