@@ -1,0 +1,444 @@
+[
+  {
+    "id": 20251201,
+    "gregorian": "01/12/2025",
+    "hijri": "10/06/1447",
+    "prayerTimes": {
+      "fajr": "4:48 am",
+      "sunrise": "6:24 am",
+      "dhuhr": "11:26 am",
+      "asr": "2:10 pm",
+      "maghrib": "4:34 pm",
+      "ishaa": "5:55 pm"
+    },
+    "weekId": 202549
+  },
+  {
+    "id": 20251202,
+    "gregorian": "02/12/2025",
+    "hijri": "11/06/1447",
+    "prayerTimes": {
+      "fajr": "4:48 am",
+      "sunrise": "6:25 am",
+      "dhuhr": "11:27 am",
+      "asr": "2:10 pm",
+      "maghrib": "4:34 pm",
+      "ishaa": "5:55 pm"
+    },
+    "weekId": 202549
+  },
+  {
+    "id": 20251203,
+    "gregorian": "03/12/2025",
+    "hijri": "12/06/1447",
+    "prayerTimes": {
+      "fajr": "4:49 am",
+      "sunrise": "6:26 am",
+      "dhuhr": "11:27 am",
+      "asr": "2:10 pm",
+      "maghrib": "4:34 pm",
+      "ishaa": "5:55 pm"
+    },
+    "weekId": 202549
+  },
+  {
+    "id": 20251204,
+    "gregorian": "04/12/2025",
+    "hijri": "13/06/1447",
+    "prayerTimes": {
+      "fajr": "4:50 am",
+      "sunrise": "6:26 am",
+      "dhuhr": "11:28 am",
+      "asr": "2:10 pm",
+      "maghrib": "4:34 pm",
+      "ishaa": "5:55 pm"
+    },
+    "weekId": 202549
+  },
+  {
+    "id": 20251205,
+    "gregorian": "05/12/2025",
+    "hijri": "14/06/1447",
+    "prayerTimes": {
+      "fajr": "4:51 am",
+      "sunrise": "6:27 am",
+      "dhuhr": "11:28 am",
+      "asr": "2:10 pm",
+      "maghrib": "4:34 pm",
+      "ishaa": "5:55 pm"
+    },
+    "weekId": 202549
+  },
+  {
+    "id": 20251206,
+    "gregorian": "06/12/2025",
+    "hijri": "15/06/1447",
+    "prayerTimes": {
+      "fajr": "4:51 am",
+      "sunrise": "6:28 am",
+      "dhuhr": "11:28 am",
+      "asr": "2:10 pm",
+      "maghrib": "4:34 pm",
+      "ishaa": "5:55 pm"
+    },
+    "weekId": 202550
+  },
+  {
+    "id": 20251207,
+    "gregorian": "07/12/2025",
+    "hijri": "16/06/1447",
+    "prayerTimes": {
+      "fajr": "4:52 am",
+      "sunrise": "6:29 am",
+      "dhuhr": "11:29 am",
+      "asr": "2:10 pm",
+      "maghrib": "4:34 pm",
+      "ishaa": "5:55 pm"
+    },
+    "weekId": 202550
+  },
+  {
+    "id": 20251208,
+    "gregorian": "08/12/2025",
+    "hijri": "17/06/1447",
+    "prayerTimes": {
+      "fajr": "4:53 am",
+      "sunrise": "6:30 am",
+      "dhuhr": "11:29 am",
+      "asr": "2:10 pm",
+      "maghrib": "4:34 pm",
+      "ishaa": "5:55 pm"
+    },
+    "weekId": 202550
+  },
+  {
+    "id": 20251209,
+    "gregorian": "09/12/2025",
+    "hijri": "18/06/1447",
+    "prayerTimes": {
+      "fajr": "4:53 am",
+      "sunrise": "6:31 am",
+      "dhuhr": "11:30 am",
+      "asr": "2:10 pm",
+      "maghrib": "4:34 pm",
+      "ishaa": "5:56 pm"
+    },
+    "weekId": 202550
+  },
+  {
+    "id": 20251210,
+    "gregorian": "10/12/2025",
+    "hijri": "19/06/1447",
+    "prayerTimes": {
+      "fajr": "4:54 am",
+      "sunrise": "6:31 am",
+      "dhuhr": "11:30 am",
+      "asr": "2:11 pm",
+      "maghrib": "4:34 pm",
+      "ishaa": "5:56 pm"
+    },
+    "weekId": 202550
+  },
+  {
+    "id": 20251211,
+    "gregorian": "11/12/2025",
+    "hijri": "20/06/1447",
+    "prayerTimes": {
+      "fajr": "4:55 am",
+      "sunrise": "6:32 am",
+      "dhuhr": "11:31 am",
+      "asr": "2:11 pm",
+      "maghrib": "4:34 pm",
+      "ishaa": "5:56 pm"
+    },
+    "weekId": 202550
+  },
+  {
+    "id": 20251212,
+    "gregorian": "12/12/2025",
+    "hijri": "21/06/1447",
+    "prayerTimes": {
+      "fajr": "4:56 am",
+      "sunrise": "6:33 am",
+      "dhuhr": "11:31 am",
+      "asr": "2:11 pm",
+      "maghrib": "4:34 pm",
+      "ishaa": "5:56 pm"
+    },
+    "weekId": 202550
+  },
+  {
+    "id": 20251213,
+    "gregorian": "13/12/2025",
+    "hijri": "22/06/1447",
+    "prayerTimes": {
+      "fajr": "4:56 am",
+      "sunrise": "6:34 am",
+      "dhuhr": "11:31 am",
+      "asr": "2:11 pm",
+      "maghrib": "4:34 pm",
+      "ishaa": "5:57 pm"
+    },
+    "weekId": 202551
+  },
+  {
+    "id": 20251214,
+    "gregorian": "14/12/2025",
+    "hijri": "23/06/1447",
+    "prayerTimes": {
+      "fajr": "4:57 am",
+      "sunrise": "6:34 am",
+      "dhuhr": "11:32 am",
+      "asr": "2:12 pm",
+      "maghrib": "4:35 pm",
+      "ishaa": "5:57 pm"
+    },
+    "weekId": 202551
+  },
+  {
+    "id": 20251215,
+    "gregorian": "15/12/2025",
+    "hijri": "24/06/1447",
+    "prayerTimes": {
+      "fajr": "4:58 am",
+      "sunrise": "6:35 am",
+      "dhuhr": "11:32 am",
+      "asr": "2:12 pm",
+      "maghrib": "4:35 pm",
+      "ishaa": "5:57 pm"
+    },
+    "weekId": 202551
+  },
+  {
+    "id": 20251216,
+    "gregorian": "16/12/2025",
+    "hijri": "25/06/1447",
+    "prayerTimes": {
+      "fajr": "4:58 am",
+      "sunrise": "6:36 am",
+      "dhuhr": "11:33 am",
+      "asr": "2:12 pm",
+      "maghrib": "4:35 pm",
+      "ishaa": "5:58 pm"
+    },
+    "weekId": 202551
+  },
+  {
+    "id": 20251217,
+    "gregorian": "17/12/2025",
+    "hijri": "26/06/1447",
+    "prayerTimes": {
+      "fajr": "4:59 am",
+      "sunrise": "6:36 am",
+      "dhuhr": "11:33 am",
+      "asr": "2:13 pm",
+      "maghrib": "4:35 pm",
+      "ishaa": "5:58 pm"
+    },
+    "weekId": 202551
+  },
+  {
+    "id": 20251218,
+    "gregorian": "18/12/2025",
+    "hijri": "27/06/1447",
+    "prayerTimes": {
+      "fajr": "4:59 am",
+      "sunrise": "6:37 am",
+      "dhuhr": "11:34 am",
+      "asr": "2:13 pm",
+      "maghrib": "4:36 pm",
+      "ishaa": "5:58 pm"
+    },
+    "weekId": 202551
+  },
+  {
+    "id": 20251219,
+    "gregorian": "19/12/2025",
+    "hijri": "28/06/1447",
+    "prayerTimes": {
+      "fajr": "5:00 am",
+      "sunrise": "6:37 am",
+      "dhuhr": "11:34 am",
+      "asr": "2:13 pm",
+      "maghrib": "4:36 pm",
+      "ishaa": "5:59 pm"
+    },
+    "weekId": 202551
+  },
+  {
+    "id": 20251220,
+    "gregorian": "20/12/2025",
+    "hijri": "29/06/1447",
+    "prayerTimes": {
+      "fajr": "5:00 am",
+      "sunrise": "6:38 am",
+      "dhuhr": "11:35 am",
+      "asr": "2:14 pm",
+      "maghrib": "4:37 pm",
+      "ishaa": "5:59 pm"
+    },
+    "weekId": 202552,
+    "event": {
+      "ar": "ولادة القمر ٣:٤٥ قبل الفجر",
+      "en": " Moon Birth 3:45 AM"
+    }
+  },
+  {
+    "id": 20251221,
+    "gregorian": "21/12/2025",
+    "hijri": "01/07/1447",
+    "prayerTimes": {
+      "fajr": "5:01 am",
+      "sunrise": "6:39 am",
+      "dhuhr": "11:35 am",
+      "asr": "2:14 pm",
+      "maghrib": "4:37 pm",
+      "ishaa": "6:00 pm"
+    },
+    "weekId": 202552
+  },
+  {
+    "id": 20251222,
+    "gregorian": "22/12/2025",
+    "hijri": "02/07/1447",
+    "prayerTimes": {
+      "fajr": "5:02 am",
+      "sunrise": "6:39 am",
+      "dhuhr": "11:36 am",
+      "asr": "2:15 pm",
+      "maghrib": "4:38 pm",
+      "ishaa": "6:00 pm"
+    },
+    "weekId": 202552,
+    "event": {
+      "ar": "بدء فصل الشتاء",
+      "en": " The beginning of the winter season"
+    }
+  },
+  {
+    "id": 20251223,
+    "gregorian": "23/12/2025",
+    "hijri": "03/07/1447",
+    "prayerTimes": {
+      "fajr": "5:02 am",
+      "sunrise": "6:40 am",
+      "dhuhr": "11:36 am",
+      "asr": "2:15 pm",
+      "maghrib": "4:38 pm",
+      "ishaa": "6:01 pm"
+    },
+    "weekId": 202552
+  },
+  {
+    "id": 20251224,
+    "gregorian": "24/12/2025",
+    "hijri": "04/07/1447",
+    "prayerTimes": {
+      "fajr": "5:03 am",
+      "sunrise": "6:40 am",
+      "dhuhr": "11:37 am",
+      "asr": "2:16 pm",
+      "maghrib": "4:39 pm",
+      "ishaa": "6:01 pm"
+    },
+    "weekId": 202552
+  },
+  {
+    "id": 20251225,
+    "gregorian": "25/12/2025",
+    "hijri": "05/07/1447",
+    "prayerTimes": {
+      "fajr": "5:03 am",
+      "sunrise": "6:40 am",
+      "dhuhr": "11:37 am",
+      "asr": "2:16 pm",
+      "maghrib": "4:39 pm",
+      "ishaa": "6:02 pm"
+    },
+    "weekId": 202552
+  },
+  {
+    "id": 20251226,
+    "gregorian": "26/12/2025",
+    "hijri": "06/07/1447",
+    "prayerTimes": {
+      "fajr": "5:03 am",
+      "sunrise": "6:41 am",
+      "dhuhr": "11:38 am",
+      "asr": "2:17 pm",
+      "maghrib": "4:40 pm",
+      "ishaa": "6:02 pm"
+    },
+    "weekId": 202552
+  },
+  {
+    "id": 20251227,
+    "gregorian": "27/12/2025",
+    "hijri": "07/07/1447",
+    "prayerTimes": {
+      "fajr": "5:04 am",
+      "sunrise": "6:41 am",
+      "dhuhr": "11:38 am",
+      "asr": "2:17 pm",
+      "maghrib": "4:40 pm",
+      "ishaa": "6:03 pm"
+    },
+    "weekId": 202553
+  },
+  {
+    "id": 20251228,
+    "gregorian": "28/12/2025",
+    "hijri": "08/07/1447",
+    "prayerTimes": {
+      "fajr": "5:04 am",
+      "sunrise": "6:42 am",
+      "dhuhr": "11:39 am",
+      "asr": "2:18 pm",
+      "maghrib": "4:41 pm",
+      "ishaa": "6:03 pm"
+    },
+    "weekId": 202553
+  },
+  {
+    "id": 20251229,
+    "gregorian": "29/12/2025",
+    "hijri": "09/07/1447",
+    "prayerTimes": {
+      "fajr": "5:05 am",
+      "sunrise": "6:42 am",
+      "dhuhr": "11:39 am",
+      "asr": "2:19 pm",
+      "maghrib": "4:42 pm",
+      "ishaa": "6:04 pm"
+    },
+    "weekId": 202553
+  },
+  {
+    "id": 20251230,
+    "gregorian": "30/12/2025",
+    "hijri": "10/07/1447",
+    "prayerTimes": {
+      "fajr": "5:05 am",
+      "sunrise": "6:43 am",
+      "dhuhr": "11:40 am",
+      "asr": "2:19 pm",
+      "maghrib": "4:42 pm",
+      "ishaa": "6:05 pm"
+    },
+    "weekId": 202553
+  },
+  {
+    "id": 20251231,
+    "gregorian": "31/12/2025",
+    "hijri": "11/07/1447",
+    "prayerTimes": {
+      "fajr": "5:05 am",
+      "sunrise": "6:43 am",
+      "dhuhr": "11:40 am",
+      "asr": "2:20 pm",
+      "maghrib": "4:43 pm",
+      "ishaa": "6:05 pm"
+    },
+    "weekId": 202553
+  }
+]
