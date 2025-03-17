@@ -1,0 +1,17 @@
+{
+  "id": 20250322,
+  "gregorian": "22/03/2025",
+  "hijri": "22/09/1446",
+  "prayerTimes": {
+    "fajr": "4:09 am",
+    "sunrise": "5:40 am",
+    "dhuhr": "11:45 am",
+    "asr": "3:13 pm",
+    "maghrib": "5:55 pm",
+    "ishaa": "7:12 pm"
+  },
+  "event": {
+    "ar": "بدء فصل الرّبيع",
+    "en": "The beginning of the spring season"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": 20250201,
+  "gregorian": "01/02/2025",
+  "hijri": "02/08/1446",
+  "prayerTimes": {
+    "fajr": "5:02 am",
+    "sunrise": "6:35 am",
+    "dhuhr": "11:51 am",
+    "asr": "2:46 pm",
+    "maghrib": "5:12 pm",
+    "ishaa": "6:31 pm"
+  }
+}

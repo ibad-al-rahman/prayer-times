@@ -1,0 +1,17 @@
+{
+  "id": 20251222,
+  "gregorian": "22/12/2025",
+  "hijri": "02/07/1447",
+  "prayerTimes": {
+    "fajr": "5:02 am",
+    "sunrise": "6:39 am",
+    "dhuhr": "11:36 am",
+    "asr": "2:15 pm",
+    "maghrib": "4:38 pm",
+    "ishaa": "6:00 pm"
+  },
+  "event": {
+    "ar": "بدء فصل الشتاء",
+    "en": " The beginning of the winter season"
+  }
+}

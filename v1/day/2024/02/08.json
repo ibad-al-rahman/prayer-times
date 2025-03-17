@@ -1,0 +1,17 @@
+{
+  "id": 20240208,
+  "gregorian": "08/02/2024",
+  "hijri": "27/07/1445",
+  "prayerTimes": {
+    "fajr": "4:58 am",
+    "sunrise": "6:31 am",
+    "dhuhr": "11:52 am",
+    "asr": "2:51 pm",
+    "maghrib": "5:19 pm",
+    "ishaa": "6:37 pm"
+  },
+  "event": {
+    "ar": "ذكرى الاسراء والمعراج",
+    "en": "The memory of Isra and Mi'raj"
+  }
+}

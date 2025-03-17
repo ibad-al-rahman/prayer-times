@@ -1,0 +1,17 @@
+{
+  "id": 20240111,
+  "gregorian": "11/01/2024",
+  "hijri": "29/06/1445",
+  "prayerTimes": {
+    "fajr": "5:07 am",
+    "sunrise": "6:45 am",
+    "dhuhr": "11:45 am",
+    "asr": "2:28 pm",
+    "maghrib": "4:52 pm",
+    "ishaa": "6:13 pm"
+  },
+  "event": {
+    "ar": "ولادة القمر 1:59 بعد الظهر",
+    "en": "Moon Birth 1:59 PM"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "id": 20250127,
+  "gregorian": "27/01/2025",
+  "hijri": "27/07/1446",
+  "prayerTimes": {
+    "fajr": "5:05 am",
+    "sunrise": "6:38 am",
+    "dhuhr": "11:50 am",
+    "asr": "2:42 pm",
+    "maghrib": "5:07 pm",
+    "ishaa": "6:27 pm"
+  },
+  "event": {
+    "ar": " ذكرى الإسراء والمعراج",
+    "en": " Isra and Mi'raj"
+  }
+}

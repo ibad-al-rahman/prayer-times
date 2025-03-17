@@ -1,0 +1,17 @@
+{
+  "id": 20250402,
+  "gregorian": "02/04/2025",
+  "hijri": "04/10/1446",
+  "prayerTimes": {
+    "fajr": "4:53 am",
+    "sunrise": "6:25 am",
+    "dhuhr": "12:42 pm",
+    "asr": "4:15 pm",
+    "maghrib": "7:03 pm",
+    "ishaa": "8:21 pm"
+  },
+  "event": {
+    "ar": "ذكرى غزوة أُحُد (٣ هـ)",
+    "en": "The anniversary of the Battle of Uhud (3 AH)"
+  }
+}
