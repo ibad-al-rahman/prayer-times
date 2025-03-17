@@ -1,0 +1,172 @@
+openapi: 3.1.0
+info:
+  title: PrayerTimesService
+  version: 1.0.0
+servers:
+  - url: "https://ibad-al-rahman.github.io/prayer-times/v1"
+    description: "Prayer Times service for Ibad Al-Rahman"
+paths:
+  /year/days/{year}.json:
+    get:
+      operationId: getYearPrayerTimesDays
+      summary: Get daily prayer times for the year
+      parameters:
+        - name: year
+          in: path
+          schema:
+            type: string
+          required: true
+      responses:
+        "200":
+          description: "Successful response"
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/YearPrayerTimesDays"
+
+  /year/weeks/{year}.json:
+    get:
+      operationId: getYearPrayerTimesWeeks
+      summary: Get weekly prayer times for the year
+      parameters:
+        - name: year
+          in: path
+          schema:
+            type: string
+          required: true
+      responses:
+        "200":
+          description: "Successful response"
+          content:
+            application/json:
+              schema:
+                $ref: "#/components/schemas/YearPrayerTimesWeeks"
+
+  /sha1/{year}.json:
+    get:
+      operationId: getYearPrayerTimesSha1
+      summary: Get SHA1 hash for the year
+      parameters:
+        - name: year
+          in: path
+          schema:
+            type: string
+          required: true
+      responses:
+        "200":
+          description: "Successful response"
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  sha1:
+                    type: string
+                required:
+                  - sha1
+
+components:
+  schemas:
+    YearPrayerTimesDays:
+      properties:
+        year:
+          type: array
+          items:
+            $ref: "#/components/schemas/Day"
+        sha1:
+          type: string
+      required:
+        - year
+        - sha1
+
+    YearPrayerTimesWeeks:
+      properties:
+        year:
+          type: array
+          items:
+            $ref: "#/components/schemas/Week"
+        sha1:
+          type: string
+      required:
+        - year
+        - sha1
+
+    Week:
+      properties:
+        id:
+          type: integer
+        mon:
+          $ref: "#/components/schemas/Day"
+        tue:
+          $ref: "#/components/schemas/Day"
+        wed:
+          $ref: "#/components/schemas/Day"
+        thu:
+          $ref: "#/components/schemas/Day"
+        fri:
+          $ref: "#/components/schemas/Day"
+        sat:
+          $ref: "#/components/schemas/Day"
+        sun:
+          $ref: "#/components/schemas/Day"
+        hadith:
+          $ref: "#/components/schemas/Hadith"
+      required:
+        - id
+
+    Day:
+      properties:
+        id:
+          type: integer
+        weekId:
+          type: integer
+        gregorian:
+          type: string
+        hijri:
+          type: string
+        prayerTimes:
+          $ref: "#/components/schemas/PrayerTimes"
+        event:
+          $ref: "#/components/schemas/Event"
+      required:
+        - id
+        - weekId
+        - gregorian
+        - hijri
+
+    PrayerTimes:
+      properties:
+        fajr:
+          type: string
+        dhuhr:
+          type: string
+        asr:
+          type: string
+        maghrib:
+          type: string
+        isha:
+          type: string
+      required:
+        - fajr
+        - dhuhr
+        - asr
+        - maghrib
+        - isha
+
+    Event:
+      properties:
+        en:
+          type: string
+        ar:
+          type: string
+      required:
+        - ar
+
+    Hadith:
+      properties:
+        hadith:
+          type: string
+        note:
+          type: string
+      required:
+        - hadith
