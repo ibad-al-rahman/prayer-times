@@ -25,6 +25,7 @@ do
 done
 
 # Deployment step
+mv temp/index.html index.html
 rm -rf temp
 
 git config --global user.name "Ghamza-Jd"
