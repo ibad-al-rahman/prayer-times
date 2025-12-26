@@ -3,7 +3,7 @@
 # Setup
 git branch -D deployment
 git switch -c deployment
-years=(2024 2025)
+years=(2024 2025 2026)
 msg="Deploying years: ${years[@]}"
 echo "$msg"
 
