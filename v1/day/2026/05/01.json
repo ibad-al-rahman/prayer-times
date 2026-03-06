@@ -1,0 +1,17 @@
+{
+  "id": 20260501,
+  "gregorian": "01/05/2026",
+  "hijri": "14/11/1447",
+  "prayerTimes": {
+    "fajr": "4:09 am",
+    "sunrise": "5:50 am",
+    "dhuhr": "12:35 pm",
+    "asr": "4:17 pm",
+    "maghrib": "7:25 pm",
+    "ishaa": "8:50 pm"
+  },
+  "event": {
+    "ar": "يوم العمّال",
+    "en": " Labor Day"
+  }
+}

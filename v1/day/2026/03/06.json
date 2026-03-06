@@ -1,0 +1,18 @@
+{
+  "id": 20260306,
+  "gregorian": "06/03/2026",
+  "hijri": "17/09/1447",
+  "prayerTimes": {
+    "fajr": "4:30 am",
+    "sunrise": "6:00 am",
+    "dhuhr": "11:49 am",
+    "asr": "3:08 pm",
+    "maghrib": "5:43 pm",
+    "ishaa": "6:59 pm",
+    "imsak": "4:10 am"
+  },
+  "event": {
+    "ar": " ذكرى غزوة بدر الكبرى (٢ هـ)",
+    "en": "The anniversary of the Battle of Badr (2 AH)"
+  }
+}

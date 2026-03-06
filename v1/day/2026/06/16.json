@@ -1,0 +1,17 @@
+{
+  "id": 20260616,
+  "gregorian": "16/06/2026",
+  "hijri": "01/01/1448",
+  "prayerTimes": {
+    "fajr": "3:31 am",
+    "sunrise": "5:26 am",
+    "dhuhr": "12:38 pm",
+    "asr": "4:23 pm",
+    "maghrib": "7:55 pm",
+    "ishaa": "9:31 pm"
+  },
+  "event": {
+    "ar": "بداية العام الهجري ١٤٤٨",
+    "en": " The beginning of the Hijri year 1448"
+  }
+}

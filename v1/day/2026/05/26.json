@@ -1,0 +1,17 @@
+{
+  "id": 20260526,
+  "gregorian": "26/05/2026",
+  "hijri": "09/12/1447",
+  "prayerTimes": {
+    "fajr": "3:40 am",
+    "sunrise": "5:30 am",
+    "dhuhr": "12:34 pm",
+    "asr": "4:19 pm",
+    "maghrib": "7:44 pm",
+    "ishaa": "9:16 pm"
+  },
+  "event": {
+    "ar": "الوقوف في عرفة",
+    "en": " Standing at Arafat"
+  }
+}

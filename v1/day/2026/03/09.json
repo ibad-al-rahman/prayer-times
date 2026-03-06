@@ -1,0 +1,18 @@
+{
+  "id": 20260309,
+  "gregorian": "09/03/2026",
+  "hijri": "20/09/1447",
+  "prayerTimes": {
+    "fajr": "4:26 am",
+    "sunrise": "5:56 am",
+    "dhuhr": "11:48 am",
+    "asr": "3:09 pm",
+    "maghrib": "5:45 pm",
+    "ishaa": "7:01 pm",
+    "imsak": "4:06 am"
+  },
+  "event": {
+    "ar": "ذكرى فتح مكة (٨ هـ)",
+    "en": " Anniversary of the Conquest of Mecca (8 AH)"
+  }
+}

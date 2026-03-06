@@ -1,0 +1,17 @@
+{
+  "id": 20260202,
+  "gregorian": "02/02/2026",
+  "hijri": "14/08/1447",
+  "prayerTimes": {
+    "fajr": "5:02 am",
+    "sunrise": "6:35 am",
+    "dhuhr": "11:51 am",
+    "asr": "2:47 pm",
+    "maghrib": "5:13 pm",
+    "ishaa": "6:32 pm"
+  },
+  "event": {
+    "ar": "ليلة النّصف من شعبان",
+    "en": " The night of the middle of Sha'ban"
+  }
+}

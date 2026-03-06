@@ -1,0 +1,457 @@
+[
+  {
+    "id": 20261101,
+    "gregorian": "01/11/2026",
+    "hijri": "21/05/1448",
+    "prayerTimes": {
+      "fajr": "4:24 am",
+      "sunrise": "5:56 am",
+      "dhuhr": "11:21 am",
+      "asr": "2:23 pm",
+      "maghrib": "4:51 pm",
+      "ishaa": "6:09 pm"
+    },
+    "weekId": 202645,
+    "event": {
+      "ar": "وَمَن يُعَظِّمْ شَعَائِرَ اللَّهِ فَإِنَّهَا مِن تَقْوَى الْقُلُوبِ (٣٢) [الحج]"
+    }
+  },
+  {
+    "id": 20261102,
+    "gregorian": "02/11/2026",
+    "hijri": "22/05/1448",
+    "prayerTimes": {
+      "fajr": "4:24 am",
+      "sunrise": "5:57 am",
+      "dhuhr": "11:21 am",
+      "asr": "2:23 pm",
+      "maghrib": "4:50 pm",
+      "ishaa": "6:08 pm"
+    },
+    "weekId": 202645,
+    "event": {
+      "ar": "وَمَن يُعَظِّمْ شَعَائِرَ اللَّهِ فَإِنَّهَا مِن تَقْوَى الْقُلُوبِ (٣٢) [الحج]"
+    }
+  },
+  {
+    "id": 20261103,
+    "gregorian": "03/11/2026",
+    "hijri": "23/05/1448",
+    "prayerTimes": {
+      "fajr": "4:25 am",
+      "sunrise": "5:58 am",
+      "dhuhr": "11:21 am",
+      "asr": "2:22 pm",
+      "maghrib": "4:49 pm",
+      "ishaa": "6:07 pm"
+    },
+    "weekId": 202645,
+    "event": {
+      "ar": "وَمَن يُعَظِّمْ شَعَائِرَ اللَّهِ فَإِنَّهَا مِن تَقْوَى الْقُلُوبِ (٣٢) [الحج]"
+    }
+  },
+  {
+    "id": 20261104,
+    "gregorian": "04/11/2026",
+    "hijri": "24/05/1448",
+    "prayerTimes": {
+      "fajr": "4:26 am",
+      "sunrise": "5:59 am",
+      "dhuhr": "11:21 am",
+      "asr": "2:21 pm",
+      "maghrib": "4:49 pm",
+      "ishaa": "6:06 pm"
+    },
+    "weekId": 202645,
+    "event": {
+      "ar": "وَمَن يُعَظِّمْ شَعَائِرَ اللَّهِ فَإِنَّهَا مِن تَقْوَى الْقُلُوبِ (٣٢) [الحج]"
+    }
+  },
+  {
+    "id": 20261105,
+    "gregorian": "05/11/2026",
+    "hijri": "25/05/1448",
+    "prayerTimes": {
+      "fajr": "4:27 am",
+      "sunrise": "6:00 am",
+      "dhuhr": "11:21 am",
+      "asr": "2:20 pm",
+      "maghrib": "4:48 pm",
+      "ishaa": "6:06 pm"
+    },
+    "weekId": 202645,
+    "event": {
+      "ar": "وَمَن يُعَظِّمْ شَعَائِرَ اللَّهِ فَإِنَّهَا مِن تَقْوَى الْقُلُوبِ (٣٢) [الحج]"
+    }
+  },
+  {
+    "id": 20261106,
+    "gregorian": "06/11/2026",
+    "hijri": "26/05/1448",
+    "prayerTimes": {
+      "fajr": "4:28 am",
+      "sunrise": "6:01 am",
+      "dhuhr": "11:21 am",
+      "asr": "2:20 pm",
+      "maghrib": "4:47 pm",
+      "ishaa": "6:05 pm"
+    },
+    "weekId": 202645,
+    "event": {
+      "ar": "وَمَن يُعَظِّمْ شَعَائِرَ اللَّهِ فَإِنَّهَا مِن تَقْوَى الْقُلُوبِ (٣٢) [الحج]"
+    }
+  },
+  {
+    "id": 20261107,
+    "gregorian": "07/11/2026",
+    "hijri": "27/05/1448",
+    "prayerTimes": {
+      "fajr": "4:28 am",
+      "sunrise": "6:02 am",
+      "dhuhr": "11:21 am",
+      "asr": "2:19 pm",
+      "maghrib": "4:46 pm",
+      "ishaa": "6:04 pm"
+    },
+    "weekId": 202646
+  },
+  {
+    "id": 20261108,
+    "gregorian": "08/11/2026",
+    "hijri": "28/05/1448",
+    "prayerTimes": {
+      "fajr": "4:29 am",
+      "sunrise": "6:03 am",
+      "dhuhr": "11:21 am",
+      "asr": "2:18 pm",
+      "maghrib": "4:45 pm",
+      "ishaa": "6:03 pm"
+    },
+    "weekId": 202646
+  },
+  {
+    "id": 20261109,
+    "gregorian": "09/11/2026",
+    "hijri": "29/05/1448",
+    "prayerTimes": {
+      "fajr": "4:30 am",
+      "sunrise": "6:03 am",
+      "dhuhr": "11:21 am",
+      "asr": "2:18 pm",
+      "maghrib": "4:44 pm",
+      "ishaa": "6:03 pm"
+    },
+    "weekId": 202646,
+    "event": {
+      "ar": "ولادة القمر ٩:٠٣ صباحاً",
+      "en": " Moon Birth 9:03 AM"
+    }
+  },
+  {
+    "id": 20261110,
+    "gregorian": "10/11/2026",
+    "hijri": "30/05/1448",
+    "prayerTimes": {
+      "fajr": "4:31 am",
+      "sunrise": "6:04 am",
+      "dhuhr": "11:22 am",
+      "asr": "2:17 pm",
+      "maghrib": "4:44 pm",
+      "ishaa": "6:02 pm"
+    },
+    "weekId": 202646
+  },
+  {
+    "id": 20261111,
+    "gregorian": "11/11/2026",
+    "hijri": "01/06/1448",
+    "prayerTimes": {
+      "fajr": "4:31 am",
+      "sunrise": "6:05 am",
+      "dhuhr": "11:22 am",
+      "asr": "2:17 pm",
+      "maghrib": "4:43 pm",
+      "ishaa": "6:01 pm"
+    },
+    "weekId": 202646
+  },
+  {
+    "id": 20261112,
+    "gregorian": "12/11/2026",
+    "hijri": "02/06/1448",
+    "prayerTimes": {
+      "fajr": "4:32 am",
+      "sunrise": "6:06 am",
+      "dhuhr": "11:22 am",
+      "asr": "2:16 pm",
+      "maghrib": "4:42 pm",
+      "ishaa": "6:01 pm"
+    },
+    "weekId": 202646
+  },
+  {
+    "id": 20261113,
+    "gregorian": "13/11/2026",
+    "hijri": "03/06/1448",
+    "prayerTimes": {
+      "fajr": "4:33 am",
+      "sunrise": "6:07 am",
+      "dhuhr": "11:22 am",
+      "asr": "2:16 pm",
+      "maghrib": "4:41 pm",
+      "ishaa": "6:00 pm"
+    },
+    "weekId": 202646
+  },
+  {
+    "id": 20261114,
+    "gregorian": "14/11/2026",
+    "hijri": "04/06/1448",
+    "prayerTimes": {
+      "fajr": "4:34 am",
+      "sunrise": "6:08 am",
+      "dhuhr": "11:22 am",
+      "asr": "2:15 pm",
+      "maghrib": "4:41 pm",
+      "ishaa": "6:00 pm"
+    },
+    "weekId": 202647
+  },
+  {
+    "id": 20261115,
+    "gregorian": "15/11/2026",
+    "hijri": "05/06/1448",
+    "prayerTimes": {
+      "fajr": "4:35 am",
+      "sunrise": "6:09 am",
+      "dhuhr": "11:22 am",
+      "asr": "2:15 pm",
+      "maghrib": "4:40 pm",
+      "ishaa": "5:59 pm"
+    },
+    "weekId": 202647
+  },
+  {
+    "id": 20261116,
+    "gregorian": "16/11/2026",
+    "hijri": "06/06/1448",
+    "prayerTimes": {
+      "fajr": "4:36 am",
+      "sunrise": "6:10 am",
+      "dhuhr": "11:22 am",
+      "asr": "2:14 pm",
+      "maghrib": "4:40 pm",
+      "ishaa": "5:59 pm"
+    },
+    "weekId": 202647
+  },
+  {
+    "id": 20261117,
+    "gregorian": "17/11/2026",
+    "hijri": "07/06/1448",
+    "prayerTimes": {
+      "fajr": "4:36 am",
+      "sunrise": "6:11 am",
+      "dhuhr": "11:22 am",
+      "asr": "2:14 pm",
+      "maghrib": "4:39 pm",
+      "ishaa": "5:58 pm"
+    },
+    "weekId": 202647
+  },
+  {
+    "id": 20261118,
+    "gregorian": "18/11/2026",
+    "hijri": "08/06/1448",
+    "prayerTimes": {
+      "fajr": "4:37 am",
+      "sunrise": "6:12 am",
+      "dhuhr": "11:23 am",
+      "asr": "2:13 pm",
+      "maghrib": "4:38 pm",
+      "ishaa": "5:58 pm"
+    },
+    "weekId": 202647
+  },
+  {
+    "id": 20261119,
+    "gregorian": "19/11/2026",
+    "hijri": "09/06/1448",
+    "prayerTimes": {
+      "fajr": "4:38 am",
+      "sunrise": "6:13 am",
+      "dhuhr": "11:23 am",
+      "asr": "2:13 pm",
+      "maghrib": "4:38 pm",
+      "ishaa": "5:58 pm"
+    },
+    "weekId": 202647
+  },
+  {
+    "id": 20261120,
+    "gregorian": "20/11/2026",
+    "hijri": "10/06/1448",
+    "prayerTimes": {
+      "fajr": "4:39 am",
+      "sunrise": "6:14 am",
+      "dhuhr": "11:23 am",
+      "asr": "2:13 pm",
+      "maghrib": "4:37 pm",
+      "ishaa": "5:57 pm"
+    },
+    "weekId": 202647
+  },
+  {
+    "id": 20261121,
+    "gregorian": "21/11/2026",
+    "hijri": "11/06/1448",
+    "prayerTimes": {
+      "fajr": "4:40 am",
+      "sunrise": "6:15 am",
+      "dhuhr": "11:23 am",
+      "asr": "2:12 pm",
+      "maghrib": "4:37 pm",
+      "ishaa": "5:57 pm"
+    },
+    "weekId": 202648
+  },
+  {
+    "id": 20261122,
+    "gregorian": "22/11/2026",
+    "hijri": "12/06/1448",
+    "prayerTimes": {
+      "fajr": "4:40 am",
+      "sunrise": "6:16 am",
+      "dhuhr": "11:24 am",
+      "asr": "2:12 pm",
+      "maghrib": "4:36 pm",
+      "ishaa": "5:57 pm"
+    },
+    "weekId": 202648,
+    "event": {
+      "ar": "ذكرى الاستقلال",
+      "en": " Independence Day"
+    }
+  },
+  {
+    "id": 20261123,
+    "gregorian": "23/11/2026",
+    "hijri": "13/06/1448",
+    "prayerTimes": {
+      "fajr": "4:41 am",
+      "sunrise": "6:17 am",
+      "dhuhr": "11:24 am",
+      "asr": "2:12 pm",
+      "maghrib": "4:36 pm",
+      "ishaa": "5:56 pm"
+    },
+    "weekId": 202648
+  },
+  {
+    "id": 20261124,
+    "gregorian": "24/11/2026",
+    "hijri": "14/06/1448",
+    "prayerTimes": {
+      "fajr": "4:42 am",
+      "sunrise": "6:18 am",
+      "dhuhr": "11:24 am",
+      "asr": "2:11 pm",
+      "maghrib": "4:36 pm",
+      "ishaa": "5:56 pm"
+    },
+    "weekId": 202648
+  },
+  {
+    "id": 20261125,
+    "gregorian": "25/11/2026",
+    "hijri": "15/06/1448",
+    "prayerTimes": {
+      "fajr": "4:43 am",
+      "sunrise": "6:19 am",
+      "dhuhr": "11:24 am",
+      "asr": "2:11 pm",
+      "maghrib": "4:35 pm",
+      "ishaa": "5:56 pm"
+    },
+    "weekId": 202648
+  },
+  {
+    "id": 20261126,
+    "gregorian": "26/11/2026",
+    "hijri": "16/06/1448",
+    "prayerTimes": {
+      "fajr": "4:44 am",
+      "sunrise": "6:19 am",
+      "dhuhr": "11:25 am",
+      "asr": "2:11 pm",
+      "maghrib": "4:35 pm",
+      "ishaa": "5:56 pm"
+    },
+    "weekId": 202648
+  },
+  {
+    "id": 20261127,
+    "gregorian": "27/11/2026",
+    "hijri": "17/06/1448",
+    "prayerTimes": {
+      "fajr": "4:44 am",
+      "sunrise": "6:20 am",
+      "dhuhr": "11:25 am",
+      "asr": "2:11 pm",
+      "maghrib": "4:35 pm",
+      "ishaa": "5:55 pm"
+    },
+    "weekId": 202648
+  },
+  {
+    "id": 20261128,
+    "gregorian": "28/11/2026",
+    "hijri": "18/06/1448",
+    "prayerTimes": {
+      "fajr": "4:45 am",
+      "sunrise": "6:21 am",
+      "dhuhr": "11:25 am",
+      "asr": "2:10 pm",
+      "maghrib": "4:34 pm",
+      "ishaa": "5:55 pm"
+    },
+    "weekId": 202649,
+    "event": {
+      "ar": "وَمَن يُعَظِّمْ شَعَائِرَ اللَّهِ فَإِنَّهَا مِن تَقْوَى الْقُلُوبِ (٣٢) [الحج]"
+    }
+  },
+  {
+    "id": 20261129,
+    "gregorian": "29/11/2026",
+    "hijri": "19/06/1448",
+    "prayerTimes": {
+      "fajr": "4:46 am",
+      "sunrise": "6:22 am",
+      "dhuhr": "11:26 am",
+      "asr": "2:10 pm",
+      "maghrib": "4:34 pm",
+      "ishaa": "5:55 pm"
+    },
+    "weekId": 202649,
+    "event": {
+      "ar": "وَمَن يُعَظِّمْ شَعَائِرَ اللَّهِ فَإِنَّهَا مِن تَقْوَى الْقُلُوبِ (٣٢) [الحج]"
+    }
+  },
+  {
+    "id": 20261130,
+    "gregorian": "30/11/2026",
+    "hijri": "20/06/1448",
+    "prayerTimes": {
+      "fajr": "4:47 am",
+      "sunrise": "6:23 am",
+      "dhuhr": "11:26 am",
+      "asr": "2:10 pm",
+      "maghrib": "4:34 pm",
+      "ishaa": "5:55 pm"
+    },
+    "weekId": 202649,
+    "event": {
+      "ar": "وَمَن يُعَظِّمْ شَعَائِرَ اللَّهِ فَإِنَّهَا مِن تَقْوَى الْقُلُوبِ (٣٢) [الحج]"
+    }
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "id": 20260516,
+  "gregorian": "16/05/2026",
+  "hijri": "29/11/1447",
+  "prayerTimes": {
+    "fajr": "3:50 am",
+    "sunrise": "5:36 am",
+    "dhuhr": "12:34 pm",
+    "asr": "4:18 pm",
+    "maghrib": "7:37 pm",
+    "ishaa": "9:06 pm"
+  },
+  "event": {
+    "ar": "ولادة القمر ١٠:٠٢ ليلاً",
+    "en": " Moon Birth 10:02 PM"
+  }
+}
